@@ -1,4 +1,3 @@
-# static-file-server
 # Building a Node.js static file server (files over HTTP) using ES6
 
 ## Requirements
